@@ -12,7 +12,7 @@
 2. 每周均有一个 `REDAME.md` 文档，你可以将自己当周的学习心得以及做题过程中的思考记录在该文档中。
 
 ## 作业提交规则
- 
+
 1. 先将本仓库 Fork 到自己 GitHub 账号下。
 2. 将 Fork 后的仓库 Clone 到本地，然后在本地仓库中对应周的目录下新建或修改自己的代码作业，当周的学习总结写在对应周的README.md文件里。
 3. 在本地仓库完成作业后，push 到自己的 GitHub 远程仓库。
@@ -25,3 +25,27 @@
 ## 注意事项
 
  如果对 Git 和 GitHub 不太了解，请参考 [Git 官方文档](https://git-scm.com/book/zh/v2) 或者极客时间的[《玩转 Git 三剑客》](https://time.geekbang.org/course/intro/145)视频课程。
+
+
+
+
+
+
+
+## 文档链接
+
+班会链接总结：
+仓库代码链接：https://github.com/algorithm011-class02
+课件链接:https://pan.baidu.com/s/1NBNdjXI0tjDzNKXf8fvaQQ   密码:kmxb
+社群分享报名链接： https://www.infoq.cn/form/?id=195 
+组长报名链接： https://www.infoq.cn/form/?id=194
+分组二维码链接：https://shimo.im/docs/Corh1rAKepMOQujz/ 算法训练营11期-2班分组
+
+
+
+## 作业格式
+
+学号:G20200343080378
+姓名:默言
+班级:algorithm011-class02
+语言: java
